@@ -35,3 +35,6 @@ print(df.head())
 ```
 The following is the result of the code run, which obtained the required data.
 ![screenshot](https://github.com/DanXian01/Images-1/blob/patch-1/Email_Compaign1.png)
+
+## Load the data into PostgreSQL
+
